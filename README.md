@@ -1,10 +1,6 @@
-# Technical Documentation Scraper & Multi-Level Content Rewriter
+# Adapt2Learn - Intelligent Documentation System
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-green.svg)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-An intelligent system that scrapes technical documentation and automatically rewrites content at multiple difficulty levels (Beginner, Intermediate, Advanced) using Azure OpenAI. Perfect for creating accessible educational content and improving documentation accessibility.
+An intelligent system that automatically rewrites technical documentation content from Miscrosoft LearnDocs at multiple difficulty levels (Beginner, Intermediate, Advanced) using Azure OpenAI LLMs. Perfect for creating accessible educational content and improving documentation accessibility.
 
 ## 🚀 Features
 
