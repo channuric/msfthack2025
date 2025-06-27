@@ -1,4 +1,4 @@
-# Adapt2Learn - Intelligent Documentation System
+# Adapt2Learn AI Tool - Intelligent Documentation System
 
 An intelligent system that automatically rewrites technical documentation content from Miscrosoft LearnDocs at multiple difficulty levels (Beginner, Intermediate, Advanced) using Azure OpenAI LLMs. Perfect for creating accessible educational content and improving documentation accessibility.
 
